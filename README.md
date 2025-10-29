@@ -19,7 +19,7 @@ I'm a Computer Science student with a passion for mobile development and creatin
 ```typescript
 const cornflakesxz = {
     status: "Computer Science Student 🎓",
-    location: "Manila, Philippines 🇵🇭",
+    location: "Cebu, Philippines 🇵🇭",
     goal: "Becoming a Mobile Developer",
     currentFocus: ["Flutter", "Vue.js", "TypeScript"],
     learning: ["Kotlin", "Mobile Development"],
