@@ -79,6 +79,8 @@ const cornflakesxz = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cezzyy&theme=tokyonight&hide_border=true)](https://github.com/cezzyy)
 
+[![An image of @cezzyy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cezzyy)](https://holopin.io/@cezzyy)
+
 </div>
 
 ---
