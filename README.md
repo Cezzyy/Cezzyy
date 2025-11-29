@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Cornflakesxz
+# 👋 Hey there, I'm Cez
 
 ### 🎓 Computer Science Student | Aspiring Mobile Developer | Code Enthusiast
 
