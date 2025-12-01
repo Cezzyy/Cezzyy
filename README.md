@@ -45,8 +45,6 @@ const cornflakesxz = {
 ### ⚙️ **Backend Development**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 ### 🗄️ **Database & Backend Services**
@@ -82,7 +80,6 @@ const cornflakesxz = {
 - 📱 Aspiring to become a **Mobile Developer** specializing in cross-platform solutions
 - 🎓 Studying **Computer Science** and applying knowledge through real projects
 - 🔭 Building apps with **Flutter**, **Vue**, and **TypeScript**
-- 🌱 Learning **ASP.NET 8** and **Entity Framework** for backend development
 - 🔥 Exploring **Supabase** and **Firebase** for mobile backends
 - 📖 Diving into **Kotlin** to expand my Android development skills
 - 💡 Open to internships, collaborations, and learning opportunities
