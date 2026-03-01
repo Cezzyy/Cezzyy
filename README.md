@@ -67,6 +67,8 @@ const cornflakesxz = {
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cezzyy&theme=tokyonight&utcOffset=8" /></p>
 
+<p align="center"><img src="https://streak-stats.demolab.com/?user=cezzyy&theme=tokyonight&hide_border=true" /></p>
+
 <p align="center"><a href="https://holopin.io/@cezzyy"><img src="https://holopin.me/cezzyy" alt="Holopin badges" /></a></p>
 
 ---
