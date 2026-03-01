@@ -61,17 +61,13 @@ const cornflakesxz = {
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cezzyy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/cezzyy)
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cezzyy&theme=tokyonight" /></p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cezzyy&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8)](https://github.com/cezzyy)
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cezzyy&theme=tokyonight" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cezzyy&theme=tokyonight" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cezzyy&theme=tokyonight&hide_border=true)](https://github.com/cezzyy)
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cezzyy&theme=tokyonight&utcOffset=8" /></p>
 
-[![An image of @cezzyy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cezzyy)](https://holopin.io/@cezzyy)
-
-</div>
+<p align="center"><a href="https://holopin.io/@cezzyy"><img src="https://holopin.me/cezzyy" alt="Holopin badges" /></a></p>
 
 ---
 
