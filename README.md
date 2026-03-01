@@ -61,11 +61,11 @@ const cornflakesxz = {
 
 ## 📈 GitHub Analytics
 
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cezzyy&theme=tokyonight" /></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cezzyy&theme=tokyonight" /></p>
 
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cezzyy&theme=tokyonight" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cezzyy&theme=tokyonight" /></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cezzyy&theme=tokyonight" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cezzyy&theme=tokyonight" /></p>
 
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cezzyy&theme=tokyonight&utcOffset=8" /></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cezzyy&theme=tokyonight&utcOffset=8" /></p>
 
 <p align="center"><a href="https://holopin.io/@cezzyy"><img src="https://holopin.me/cezzyy" alt="Holopin badges" /></a></p>
 
