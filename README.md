@@ -64,7 +64,7 @@ const cornflakesxz = {
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cezzyy&theme=tokyonight" /></p>
 
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cezzyy&theme=tokyonight" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cezzyy&theme=tokyonight" /></p>
+<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cezzyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Cezzyy's Top Languages" /></p>
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cezzyy&theme=tokyonight&utcOffset=8" /></p>
 
