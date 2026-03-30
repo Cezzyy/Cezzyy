@@ -87,7 +87,7 @@ const cornflakesxz = {
 
 <div align="center">
 
-### 💬 Let's Connect
+### 💬 Let's Connect!
 
 *"Great things are built by great teams. Let's build something amazing together!"*
 
