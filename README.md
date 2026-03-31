@@ -81,7 +81,7 @@ const cornflakesxz = {
 - 🔭 Building apps with **Flutter**, **Vue**, and **TypeScript**
 - 🔥 Exploring **Supabase** for mobile backends
 - 📖 Diving into **Kotlin** to expand my Android development skills
-- 💡 Open to internships, collaborations, and learning opportunities
+- 💡 Open to internships, collaborations, and learning opportunities!
 
 ---
 
