@@ -16,16 +16,40 @@
 
 I'm a Computer Science student with a passion for mobile development and creating impactful digital experiences. Currently exploring the exciting world of cross-platform development while building my skills across the full stack.
 
-```typescript
-const cornflakesxz = {
-    status: "Computer Science Student 🎓",
-    location: "Cebu, Philippines 🇵🇭",
-    goal: "Becoming a Mobile Developer",
-    currentFocus: ["Flutter", "Vue.js", "TypeScript"],
-    learning: ["Kotlin", "Mobile Development"],
-    interests: ["Cross-Platform Apps", "UI/UX Design", "Clean Architecture"],
-    motto: "If you’re going to try, go all the way. Otherwise, don’t even start."
-};
+```dart
+class Cornflakesxz {
+  final String status = "Computer Science Student 🎓";
+  final String location = "Cebu, Philippines 🇵🇭";
+  final String goal = "Becoming a Mobile Developer";
+
+  final List<String> currentFocus = [
+    "Flutter", 
+    "Vue.js", 
+    "TypeScript"
+  ];
+
+  final List<String> learning = [
+    "Kotlin", 
+    "Mobile Development"
+  ];
+
+  final List<String> interests = [
+    "Cross-Platform Apps", 
+    "UI/UX Design", 
+    "Clean Architecture"
+  ];
+
+  final String motto = "If you’re going to try, go all the way. Otherwise, don’t even start.";
+
+  void represent() {
+    print("Learning, building, and growing one commit at a time!");
+  }
+}
+
+void main() {
+  var profile = Cornflakesxz();
+  profile.represent();
+}
 ```
 
 ---
