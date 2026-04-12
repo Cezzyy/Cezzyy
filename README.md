@@ -119,6 +119,6 @@ void main() {
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out! 🚀**
+**Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out! Looking for Internships! 🚀**
 
 </div>
