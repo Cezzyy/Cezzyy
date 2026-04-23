@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 
-I'm a Computer Science student with a passion for mobile development and creating impactful digital experiences. Currently exploring the exciting world of cross-platform development while building my skills across the full stack.
+I'm a Computer Science student with a passion for mobile development and creating impactful digital experiences. Currently exploring the exciting world of cross-platform development while building my skills across full stack development.
 
 ```dart
 class Cornflakesxz {
