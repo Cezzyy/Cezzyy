@@ -12,7 +12,7 @@
 
 ---
 
-## 💫 About Me
+## 💫 About Me!
 
 I'm a Computer Science student with a passion for mobile development and creating impactful digital experiences. Now currently exploring the exciting world of cross-platform development while building my skills across full stack development.
 
