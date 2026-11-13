@@ -16,9 +16,9 @@
 
 ## 💫 About Me
 
-I'm a Computer Science student who loves turning ideas into apps people actually use. My main goal is **mobile development** — especially cross-platform with **Flutter** — but I build across the whole stack: Vue and React frontends, type-safe **Hono** APIs, and **PostgreSQL / Supabase** backends, usually inside a **Turborepo** monorepo.
+I'm a Computer Science student who loves turning ideas into apps people actually use. My main goal is **mobile development** especially cross-platform with **Flutter** but I build across the whole stack: Vue and React frontends, type-safe **Hono** APIs, and **PostgreSQL / Supabase** backends, usually inside a **Turborepo** monorepo.
 
-On team projects I often wear more than one hat — building features, but also handling **project management and QA** so things actually ship.
+On team projects I often wear more than one hat, building features, but also handling **project management and QA** so things actually ship.
 
 ```dart
 class Cornflakesxz {
@@ -110,7 +110,7 @@ class Cornflakesxz {
 - 📱 Building toward a career in **mobile development**, focused on cross-platform apps with **Flutter**
 - 🏗️ Shipping full-stack projects with **Vue / React + Hono + Supabase** in Turborepo monorepos
 - ⚛️ Learning **React Native** with Expo to broaden my cross-platform mobile skills
-- 🎓 Finishing my **BS Computer Science** capstone — an RFID + IoT asset management system
+- 🎓 Finishing my **BS Computer Science** capstone, an RFID + IoT asset management system
 - 💡 Open to **internships, freelance work, and collaborations**
 
 ---
