@@ -43,10 +43,12 @@ class Cornflakesxz {
 
 | Project | What it is | Built with |
 |---|---|---|
+| 🏆 **[Totoo Ba Ito?](https://github.com/Neil-urk12/totoo-ba-mobile)** | **Winner — Cebu Hacktoberfest 2025.** Mobile app that checks whether a product is registered with FDA Philippines, by text search or by scanning the product label with AI. | Flutter · Dart · Supabase · Riverpod |
 | 🏷️ **[Technical Assets Management System](https://github.com/Technical-Assets-Management-CS31A)** | Capstone (team of 5): RFID-based asset tracking with an admin PWA, a mobile app for teachers, and ESP32 IoT check-in stations. I handle mobile dev, PM & QA. | Flutter · React · TypeScript · ASP.NET Core · PostgreSQL · ESP32 |
 | 🌉 **[DigiBridge](https://digibridge-web.pages.dev)** | Research-backed web app for assessing students' digital literacy and promoting digital inclusion. I lead the group and built the system end to end. | Vue · Hono · Drizzle · Supabase · Turborepo |
 | 🌴 **[Bisayas](https://bisayas.com)** | <!-- TODO: one-line description --> Full-stack web project, deployed on Cloudflare. | React · Hono · Supabase · Turborepo · pnpm |
 | ⚡ **[Pokédex](https://github.com/ChristianAlicaba2002/pokedex)** | Team mobile app for browsing Pokémon, built for a CS class project. | Expo · React Native · TypeScript |
+| 📝 **[ACLC Quiz App](https://github.com/Cezzyy/Online-Quiz-Mobile)** | Software Engineering course project: an online quiz app for ACLC students and teachers, with timed quizzes, biometric login, results analytics and deadline notifications. | Flutter · Dart · Supabase · Riverpod |
 
 ---
 
@@ -110,7 +112,7 @@ class Cornflakesxz {
 - 📱 Building toward a career in **mobile development**, focused on cross-platform apps with **Flutter**
 - 🏗️ Shipping full-stack projects with **Vue / React + Hono + Supabase** in Turborepo monorepos
 - ⚛️ Learning **React Native** with Expo to broaden my cross-platform mobile skills
-- 🎓 Finishing my **BS Computer Science** capstone, an RFID + IoT asset management system
+- 🎓 Finishing my **BS Computer Science** capstone — an RFID + IoT asset management system
 - 💡 Open to **internships, freelance work, and collaborations**
 
 ---
